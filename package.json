@@ -1,0 +1,13 @@
+{
+  "name": "task_3.1",
+  "email": "wartvader@gmail.com",
+  "scripts":{
+    "test" : "jest"
+  },
+  "url": "http://barnyrubble.tumblr.com/ ",
+  "version": "1.0.0",
+  "repository": "https://github.com/electron/electron-quick-start",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
